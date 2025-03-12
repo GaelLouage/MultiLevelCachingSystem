@@ -1,0 +1,13 @@
+{
+  "version": 2,
+  "dgSpecHash": "PJnbzDsD0ag=",
+  "success": true,
+  "projectFilePath": "C:\\Users\\louag\\source\\repos\\Multi-LevelCachingSystem\\Multi-LevelCachingSystem\\Multi-LevelCachingSystem.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\louag\\.nuget\\packages\\system.configuration.configurationmanager\\10.0.0-preview.1.25080.5\\system.configuration.configurationmanager.10.0.0-preview.1.25080.5.nupkg.sha512",
+    "C:\\Users\\louag\\.nuget\\packages\\system.diagnostics.eventlog\\10.0.0-preview.1.25080.5\\system.diagnostics.eventlog.10.0.0-preview.1.25080.5.nupkg.sha512",
+    "C:\\Users\\louag\\.nuget\\packages\\system.runtime.caching\\10.0.0-preview.1.25080.5\\system.runtime.caching.10.0.0-preview.1.25080.5.nupkg.sha512",
+    "C:\\Users\\louag\\.nuget\\packages\\system.security.cryptography.protecteddata\\10.0.0-preview.1.25080.5\\system.security.cryptography.protecteddata.10.0.0-preview.1.25080.5.nupkg.sha512"
+  ],
+  "logs": []
+}
